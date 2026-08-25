@@ -9,5 +9,5 @@ URDF модель 4-колесной платформы оснащенной б�
 |----------|----------|
 | 📷 URDF модель | ![robot in gazebo](images/gazebo_model_from_urdf.png) |
 | 🗺️ Картографирование в мире Gazebo | ![mapping](images/house.png) |
-| 📊 Навигация | ![localization](images/localization.png) |
+| 📊 Навигация | ![localization](images/localization.jpg) |
 
